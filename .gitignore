@@ -1,0 +1,9 @@
+.vs
+*.VC.db
+*.VC.VC.opendb
+release
+debug
+*.exe
+*.7z
+*.zip
+*.txt
